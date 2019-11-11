@@ -4,6 +4,7 @@ import html2canvas from 'html2canvas';
 // library needed for saving meme somewhere in file explorer
 import * as FileSaver from 'file-saver';
 
+
 @Component({
     selector: 'app-generator',
     templateUrl: './generator.component.html',

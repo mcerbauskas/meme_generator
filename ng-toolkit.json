@@ -1,0 +1,13 @@
+{
+  "serverless": {
+    "provider": "aws",
+    "project": "ang-practice",
+    "skipInstall": false,
+    "directory": ".",
+    "clientProject": "ang-practice",
+    "serverless": {
+      "aws": {},
+      "gcloud": {}
+    }
+  }
+}
