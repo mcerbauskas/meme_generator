@@ -1,6 +1,6 @@
 # Angular Meme Generator
 
-A simple meme generator created primary using property binding in Angular.
+A simple meme generator created primary using property binding in Angular. Visit https://lpmq33ndhf.execute-api.eu-central-1.amazonaws.com/production to try it out.
 
 ## Development server
 
