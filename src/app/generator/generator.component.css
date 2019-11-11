@@ -1,0 +1,21 @@
+.black {
+    background-color: black;
+}
+
+.rosybrown {
+    background-color: rosybrown;
+}
+
+.gray {
+    background-color: gray
+}
+
+/* 'Download' button aligment */
+button {
+    margin:auto;
+    display:block;
+  }
+
+.form-group label {
+    font-size: 20px;
+  }
